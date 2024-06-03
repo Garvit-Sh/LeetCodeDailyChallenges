@@ -5,6 +5,6 @@ In this Repo I upload daily LeetCode Challenge Code and Practice Of Questions on
 
 [LeetCode_Profile](https://leetcode.com/u/GarvitSh/)
 
-Time_Complexity
-Space_Complexity
-Define_Method
+<h2>Time_Complexity</h2> <br>
+<h2>Space_Complexity</h2><br>
+<h2>Define_Method</h2>
