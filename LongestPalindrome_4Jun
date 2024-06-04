@@ -17,3 +17,7 @@ class Solution {
         
     }
 }
+
+
+//Time Complexity - O(n+n)=O(n) becuase in string size n that get and insert value is constant
+//space complexity - O(128) => O(1)
